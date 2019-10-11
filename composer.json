@@ -1,0 +1,11 @@
+{
+    "name": "jonathan/compare-array-combinet",
+    "authors": [{
+        "name": "Jonathan Kablan",
+        "email": "jonathan.kablan@gmail.com"
+    }],
+    "require": {},
+    "require-dev": {
+        "symfony/var-dumper": "^4.3"
+    }
+}
